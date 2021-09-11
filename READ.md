@@ -1,0 +1,1 @@
+This is a simple Landing page, made using HTML, CSS and Flexbox.
